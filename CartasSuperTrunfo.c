@@ -1,5 +1,3 @@
-//Criei o código de cadastro das cartas
-
 #include <stdio.h>
 
 int main() {
