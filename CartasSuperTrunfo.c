@@ -9,7 +9,7 @@ int main() {
     float area1;
     float pib1;
     int pontosTuristicos1;
-    float densidade1; //novas variáveis do nível aentureiro
+    float densidade1; //novas variáveis do nível aventureiro
     float pibpc1;
 
     // Declaração das variáveis para a carta 2
